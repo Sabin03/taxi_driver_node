@@ -1,0 +1,18 @@
+{
+    "sourceFile": "README.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1725366108168,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1725366108168,
+            "name": "Commit-0",
+            "content": "# Node.js Express Js Api Base Setup With MySQL & Socket.io\n\n\nA new node express project.\n## Getting Started\n\n[Node.js Download](https://nodejs.org/en) & [Node.js installing](https://nodejs.org/en/docs/guides/getting-started-guide)\n\n[Express Installing & generator](https://expressjs.com/en/starter/generator.html):\nsudo npm install -g express-generator\n\n# Node App Create:\n\n1) express --view=ejs (app_name)\n2) sudo npm audit fix --force\n\n## Install dependencies:\n1) npm i -s config\n2) npm i -s cors\n3) npm i -s moment-timezone\n4) npm i -s multiparty\n5) npm i -s socket.io\n6) npm i -s uuid\n\n## Node app run:\nnode app.js"
+        }
+    ]
+}
